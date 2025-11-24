@@ -1,5 +1,6 @@
 {
-    "menu_label_text": "This text i can edit btw",
-    "is_timer_active": true,
-    "timer_target_date_utc": "2026-01-01T12:00:00Z" 
+    "mode": "timer",
+    "text": "До события осталось: ",
+    "target_date": "2025-12-31T23:59:00",
+    "end_text": "Событие началось!"
 }
