@@ -1,6 +1,6 @@
 {
     "mode": "timer",
-    "text": "Time until new update: ",
+    "text": "Time until relese this update: ",
     "target_date": "2025-12-15T12:00:00Z",
     "end_text": "New update!"
 }
