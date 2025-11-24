@@ -1,0 +1,5 @@
+{
+    "menu_label_text": "This text i can edit btw",
+    "is_timer_active": true,
+    "timer_target_date_utc": "2026-01-01T12:00:00Z" 
+}
